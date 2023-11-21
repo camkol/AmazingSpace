@@ -6,5 +6,3 @@
 2. CSS
 
 ## Notes
-
-testing
